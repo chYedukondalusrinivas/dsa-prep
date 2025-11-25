@@ -1,16 +1,20 @@
-# DSA Prep
+# 🧠 DSA Prep (Java)
 
-This repository contains my daily Data Structures & Algorithms practice.
-In this repo I will be following a DSA sheet and solve the problems.
+This repository contains my daily practice of Data Structures & Algorithms using Java.  
+The goal is to improve **problem-solving, pattern recognition, and interview preparation**.
 
-## Goals
-- Build strong problem-solving skills in Java.
-- Learn and recognize common patterns (two pointers, sliding window, DP, etc.).
-- Track my progress and thinking over time.
+I’m following a structured approach using a **DSA Sheet** + **Extra LeetCode Problems**.
 
-## Structure
-- `leetcode/` – LeetCode solutions, organized by topic (arrays, stack, linked-list, etc.).
-- `notes/` – Concept notes and patterns in my own words.
+---
 
-## Language
-- Java
+## 📅 Goals
+- Solve DSA Sheet problems systematically.
+- Practice additional LeetCode questions daily.
+- Write clean, optimized solutions with explanations.
+- Track my learnings and daily progress.
+
+---
+
+## 📜 DSA Sheet Followed
+**Sheet:** Confidential 
+

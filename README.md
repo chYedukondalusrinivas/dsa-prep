@@ -1,7 +1,7 @@
 # DSA Prep
 
 This repository contains my daily Data Structures & Algorithms practice.
-I mainly solve problems from LeetCode and other competitive programming platforms.
+In this repo I will be following a DSA sheet and solve the problems.
 
 ## Goals
 - Build strong problem-solving skills in Java.

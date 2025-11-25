@@ -20,11 +20,13 @@ I’m following a structured approach using a **DSA Sheet** + **Extra LeetCode P
 
 ---
 
+---
+
 ## 📊 My DSA & Coding Stats
 
 ### 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/chYedukondalusrinivas?ext=contest)](https://leetcode.com/chYedukondalusrinivas)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ch_Yedukondalu_Srinivas?ext=contest)](https://leetcode.com/Ch_Yedukondalu_Srinivas)
 
 ---
 
@@ -39,9 +41,9 @@ I’m following a structured approach using a **DSA Sheet** + **Extra LeetCode P
 
 ### 📈 GitHub Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chYedukondalusrinivas&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chYedukondalusrinivas&theme=react-dark)
 
 ---
 
@@ -57,5 +59,6 @@ I’m following a structured approach using a **DSA Sheet** + **Extra LeetCode P
 ---
 
 > 🔥 *Consistent effort beats raw talent. Keep pushing!* 💪🚀
+
 
 

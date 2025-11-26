@@ -28,9 +28,12 @@ I’m following a structured approach using a **DSA Sheet** + **Extra LeetCode P
 
 ### 🍽 CodeChef Stats
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yk_srinivas07)
+### 🍽 CodeChef Profile
 
-![CodeChef Stats](https://codechef-stats-api.herokuapp.com/yk_srinivas07?theme=dark)
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yk_srinivas07)
+
+![CodeChef Rating](https://img.shields.io/badge/dynamic/json?url=https://competitive-coding-api.herokuapp.com/api/codechef/yk_srinivas07&label=Rating&query=rating&color=BB5A1A&style=flat-square)
+
 
 
 ---

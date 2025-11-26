@@ -20,13 +20,18 @@ I’m following a structured approach using a **DSA Sheet** + **Extra LeetCode P
 
 ---
 
----
-
 ## 📊 My DSA & Coding Stats
 
 ### 🧩 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ch_Yedukondalu_Srinivas?ext=contest)](https://leetcode.com/Ch_Yedukondalu_Srinivas)
+
+### 🍽 CodeChef Stats
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yk_srinivas07)
+
+![CodeChef Stats](https://codechef-stats-api.herokuapp.com/yk_srinivas07?theme=dark)
+
 
 ---
 
